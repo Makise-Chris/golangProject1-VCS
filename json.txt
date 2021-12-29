@@ -1,0 +1,6 @@
+{
+    "name": "Hoàng Thị F",
+    "birthday": "2001-08-12",
+    "gender": "nữ",
+    "email": "hoangthif@gmail.com"
+}
